@@ -1,11 +1,14 @@
+import React, {Component} from "react";
 
-
-function App() {
-  return (
-    <div >
-      
-    </div>
-  );
+class App extends Component{
+  render(){
+    return (
+      <div >
+        Phone Directory
+      </div>
+    )
+  }
+ 
 }
 
 export default App;
